@@ -7,7 +7,8 @@
 # 游戏开发人员：
 
 许宜森   邓家乐  刘子瑜    张文娟  宁苒宇  曹真
-![](http://onneqrehz.bkt.clouddn.com/86E8AA512B149FBA882DFC6389085FA6.jpg)
+
+![当女程序员遇到bug](https://upload-images.jianshu.io/upload_images/2208282-32441d805e7fc270.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 项目演示视频
 
